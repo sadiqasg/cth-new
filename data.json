@@ -1,0 +1,48 @@
+{
+    "commodities": [
+        {
+            "id": 1,
+            "name": "Commodity 1",
+            "description": "example ipsum",
+            "category": "household"
+        },
+        {
+            "id": 2,
+            "name": "Commodity 2",
+            "description": "example ipsum",
+            "category": "gadgets"
+        },
+        {
+            "id": 3,
+            "name": "Commodity 3",
+            "description": "example ipsum",
+            "category": "household"
+        },
+        {
+            "id": 4,
+            "name": "Commodity 4",
+            "description": "example ipsum",
+            "category": "gadgets"
+        },
+        {
+            "id": 5,
+            "name": "Commodity 5",
+            "description": "test commodity",
+            "category": "household"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Gadgets"
+        },
+        {
+            "id": 2,
+            "name": "Household"
+        },
+        {
+            "id": 3,
+            "name": "Wears"
+        }
+    ]
+}

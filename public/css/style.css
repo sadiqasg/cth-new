@@ -1,0 +1,12 @@
+body {
+    scroll-behavior: smooth;
+}
+#main-header {
+    background: url(../img/mac.jpeg) no-repeat;
+    background-size: 100%;
+}
+#header-wrapper {
+    background: rgba(0, 0, 0, 0.8);
+    width: inherit;
+    height: inherit;
+}
